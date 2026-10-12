@@ -1,0 +1,16 @@
+# Datos (se descargan solos desde UCI)
+data/
+
+# MLflow local
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Salidas
+runs_comparacion.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
